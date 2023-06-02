@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "44FBBF4B-95D6-41F9-B5DD-FBAEECC3609B"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "722342B8-AE3E-4253-BF69-209D4378AA08"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Meals/Controllers/ViewController2.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "init(categoryName:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "12817587-7354-4423-86A2-F4609A9BE699"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Meals/Controllers/SearchViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "170"
+            endingLineNumber = "170"
+            landmarkName = "searchBarSearchButtonClicked(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F8DA8D2C-8F05-4D47-9CE1-A1DBE0E6FD93"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Meals/Controllers/Cells/SearchMealTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "155"
+            endingLineNumber = "155"
+            landmarkName = "setupCell(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F8DA8D2C-8F05-4D47-9CE1-A1DBE0E6FD93 - bcceb57664a0ad7c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Meals.SearchMealTableViewCell.setupCell(with: Meals.Meal) -&gt; ()"
+                  moduleName = "Meals"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iskragjorgjievska/Desktop/Vezbi/Meals/Meals/Controllers/Cells/SearchMealTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "155"
+                  endingLineNumber = "155"
+                  offsetFromSymbolStart = "1924">
+               </Location>
+               <Location
+                  uuid = "F8DA8D2C-8F05-4D47-9CE1-A1DBE0E6FD93 - 2901ab29ddee3348"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIView) -&gt; () in Meals.SearchMealTableViewCell.setupCell(with: Meals.Meal) -&gt; ()"
+                  moduleName = "Meals"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iskragjorgjievska/Desktop/Vezbi/Meals/Meals/Controllers/Cells/SearchMealTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "155"
+                  endingLineNumber = "155"
+                  offsetFromSymbolStart = "27">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C2E7711A-0501-4811-BEB2-F051DCBF30D0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Meals/Controllers/SearchViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
+            landmarkName = "searchMeals(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E2D84F5D-D48C-41B0-9049-1ED40438E8FB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Meals/Controllers/SearchViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "121"
+            endingLineNumber = "121"
+            landmarkName = "searchMeals(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E2D84F5D-D48C-41B0-9049-1ED40438E8FB - c9365870bbe9f217"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Meals.Meals, Alamofire.AFError&gt;) -&gt; () in Meals.SearchViewController.searchMeals(with: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "Meals"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iskragjorgjievska/Desktop/Vezbi/Meals/Meals/Controllers/SearchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "418">
+               </Location>
+               <Location
+                  uuid = "E2D84F5D-D48C-41B0-9049-1ED40438E8FB - c9365870bbe9f217"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Meals.Meals, Alamofire.AFError&gt;) -&gt; () in Meals.SearchViewController.searchMeals(with: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "Meals"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iskragjorgjievska/Desktop/Vezbi/Meals/Meals/Controllers/SearchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "452">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B6371F08-7493-46F8-8CC3-9ED60ED517CC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Meals/Controllers/CategoryListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "138"
+            endingLineNumber = "138"
+            landmarkName = "jsonDataCategory()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B6371F08-7493-46F8-8CC3-9ED60ED517CC - 383a2ee1ef821ba3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Meals.CategoryListViewController.jsonDataCategory() -&gt; ()"
+                  moduleName = "Meals"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iskragjorgjievska/Desktop/Vezbi/Meals/Meals/Controllers/CategoryListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "138"
+                  endingLineNumber = "138"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "B6371F08-7493-46F8-8CC3-9ED60ED517CC - 8aa4f7bb7584256e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Meals.Categories, Alamofire.AFError&gt;) -&gt; () in Meals.CategoryListViewController.jsonDataCategory() -&gt; ()"
+                  moduleName = "Meals"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iskragjorgjievska/Desktop/Vezbi/Meals/Meals/Controllers/CategoryListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "139"
+                  endingLineNumber = "139"
+                  offsetFromSymbolStart = "364">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
